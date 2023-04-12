@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">StoryApp</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="name">Name</string>
+    <string name="description">Description</string>
+    <string name="camera">Camera</string>
+    <string name="gallery">Gallery</string>
+    <string name="upload">Upload</string>
+    <string name="logout">Logout</string>
+    <string name="invalid_email">Wrong email format</string>
+    <string name="password_warning">Password must have at least 6 characters</string>
+    <string name="name_warning">Name can\'t be empty</string>
+    <string name="register_success">Register success</string>
+    <string name="register_failed">Register failed</string>
+    <string name="login_success">Login success</string>
+    <string name="login_failed">Login failed</string>
+    <string name="fail_story">Story failed to load</string>
+    <string name="success_story">Story success to load</string>
+    <string name="permission_denied">Permission denied</string>
+    <string name="upload_success">Upload success</string>
+    <string name="upload_failed">Upload failed</string>
+    <string name="language_setting">Change Language</string>
+    <string name="title_sign_in">SIGN IN</string>
+    <string name="title_sign_up">SIGN UP</string>
+    <string name="add_story">Add Story</string>
+    <string name="image_preview">Image preview</string>
+    <string name="image_detail">Image detail</string>
+    <string name="image_item">Image item</string>
+    <string name="btn_sign_in">sign in</string>
+    <string name="btn_sign_up">sign up</string>
+    <string name="question">Don\'t have an account?</string>
+    <string name="maps">Maps</string>
+</resources>
